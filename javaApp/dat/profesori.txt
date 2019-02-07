@@ -1,0 +1,25 @@
+1
+P3476
+Janko
+Jankiæ
+Viši predavaè
+2
+P9945
+Ivo
+Iviæ
+Profesor visoke škole
+3
+P44567
+Marko
+Markiæ
+Predavaè
+4
+P3345
+Ante
+Antiæ
+Predavaè
+5
+P7892
+Pero
+Periæ
+Profa

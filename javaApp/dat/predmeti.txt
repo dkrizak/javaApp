@@ -1,0 +1,42 @@
+1
+PR5543
+Programiranje u jeziku Java
+6
+2
+1 2
+2
+PR4563
+Web aplikacije u Javi
+7
+1
+0
+3
+PR3367
+Web aplikacije
+6
+2
+0
+4
+PR2245
+Python
+6
+4
+3 4
+5
+PR2234
+Mobilne aplikacije
+5
+3
+0
+6
+PR2213
+Ugradbeni sustavi
+7
+4
+0
+7
+P3382
+Mrežne Usluge
+5
+5
+0
